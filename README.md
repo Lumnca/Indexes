@@ -24,3 +24,5 @@
 :three:[引用](https://github.com/Lumnca/Rear-End)
 
 ### :octocat:Java ###
+
+:one:[基础语法](https://github.com/Lumnca/Java)
